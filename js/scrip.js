@@ -4,9 +4,9 @@ $(document).ready(function(){
         var pass = $("input#password").val();
         
         if(email != "" && pass != ""){
-            alert("ANDAS AL CIEN PAP'S");
+            alert("eSTÁSS LOGEADO");
         }else{
-            alert("A TOMAR POR CULO");   
+            alert("nO ESTPAS LOGEADO");   
             }
     });
 });
